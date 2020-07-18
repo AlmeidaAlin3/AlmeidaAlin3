@@ -1,7 +1,6 @@
 &nbsp;  
 &nbsp;  
-Hi there!   
-I'm Aline, Control and Automation Engineer, Machine Learning enthusiast, and lifelong learner.   
+Hi, I'm Aline, Control and Automation Engineer, Machine Learning enthusiast, and lifelong learner.   
 &nbsp; 🌱 &nbsp; I’m currently learning [Machine Learning](https://github.com/AlmeidaAlin3/MachineLearning) and [Deep Learning](https://github.com/AlmeidaAlin3/DeepLearning) from Stanford CS229/CS230 Courses.  
 &nbsp; 💕 &nbsp; I’m driven to apply my skills and efforts towards a brighter future!  
 &nbsp;  
