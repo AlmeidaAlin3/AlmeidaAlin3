@@ -1,9 +1,14 @@
-### Hi there 💕
-
-I'm Aline, Control and Automation Engineer, Machine Learning enthusiast, and lifelong learner. 
-I’m driven to apply my skills and efforts towards a brighter future! 
-
-🌱 I’m currently learning [Machine Learning](https://github.com/AlmeidaAlin3/MachineLearning) and [Deep Learning](https://github.com/AlmeidaAlin3/DeepLearning) from Stanford CS229/CS230 Courses.
+&nbsp;  
+&nbsp;  
+&nbsp;  
+### Hi there 💕  
+&nbsp;  
+I'm Aline, Control and Automation Engineer, Machine Learning enthusiast, and lifelong learner.   
+I’m driven to apply my skills and efforts towards a brighter future!   
+&nbsp;  
+🌱 I’m currently learning [Machine Learning](https://github.com/AlmeidaAlin3/MachineLearning) and [Deep Learning](https://github.com/AlmeidaAlin3/DeepLearning) from Stanford CS229/CS230 Courses.  
+&nbsp;  
+&nbsp;  
 
 <!--
 **AlmeidaAlin3/AlmeidaAlin3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
