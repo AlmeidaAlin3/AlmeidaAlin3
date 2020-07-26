@@ -5,7 +5,7 @@
 
 &nbsp;– &nbsp; 🌱 &nbsp;*I'm currently learning [Machine Learning](https://github.com/AlmeidaAlin3/MachineLearning) and [Deep Learning](https://github.com/AlmeidaAlin3/DeepLearning) from Stanford Courses.*   
 &nbsp;– &nbsp; 💡 &nbsp;*I'm driven to apply my skills and efforts towards a brighter future!*  
-&nbsp;– &nbsp; 💕 &nbsp;*My **reward** is to change the world for the better!*  
+&nbsp;– &nbsp; 💕 &nbsp;*My **reward function** is getting the world to be better!*  
 &nbsp;  
 &nbsp;  
 &nbsp;  
