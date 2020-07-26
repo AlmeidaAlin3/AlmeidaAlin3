@@ -3,7 +3,7 @@
 *Hi, there!*  
 *I'm **Aline**, Control and Automation Engineer, Machine Learning enthusiast, and lifelong learner.*  
 
-&nbsp;– &nbsp; 🌱 &nbsp;*I'm currently learning [Machine Learning](https://github.com/AlmeidaAlin3/MachineLearning) and [Deep Learning](https://github.com/AlmeidaAlin3/DeepLearning) from Stanford Courses*   
+&nbsp;– &nbsp; 🌱 &nbsp;*I'm currently learning [Machine Learning](https://github.com/AlmeidaAlin3/MachineLearning) and [Deep Learning](https://github.com/AlmeidaAlin3/DeepLearning) from Stanford Courses.*   
 &nbsp;– &nbsp; 💕 &nbsp;*My **reward function** is getting the world to have a brighter future!*  
 &nbsp;  
 &nbsp;  
