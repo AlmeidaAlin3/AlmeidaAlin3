@@ -4,7 +4,7 @@
 *I'm **Aline**, Control and Automation Engineer, Artificial Intelligence enthusiast, and lifelong learner.*  
 
 &nbsp;– &nbsp; 🌱 &nbsp;*I'm currently learning **Machine Learning** and **Deep Learning** from Stanford Courses.*   
-&nbsp;– &nbsp; 🤖 &nbsp;*My **Reward Function** is getting the world to have a brighter future!*  
+&nbsp;– &nbsp; ✨ &nbsp;*My **Reward Function** is getting the world to have a brighter future!*  
 &nbsp;  
 &nbsp;  
 &nbsp;  
