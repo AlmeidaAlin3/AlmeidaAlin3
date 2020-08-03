@@ -4,7 +4,7 @@
 *I'm **Aline**, Control and Automation Engineer, Artificial Intelligence enthusiast, and lifelong learner.*  
 
 &nbsp;– &nbsp; 🌱 &nbsp;*I'm currently learning [Machine Learning](https://github.com/AlmeidaAlin3/MachineLearning/blob/master/README.md) and [Deep Learning](https://github.com/AlmeidaAlin3/DeepLearning/blob/master/README.md) from Stanford's Courses.*   
-&nbsp;– &nbsp; 👾 &nbsp;*I'm currently working on a [Deep Learning project](https://github.com/AlmeidaAlin3/DeepLearningProject/blob/master/README.md)*  
+&nbsp;– &nbsp; 👾 &nbsp;*I'm currently working on a Deep Learning project [<D³>](https://github.com/AlmeidaAlin3/D3/blob/master/README.md)*  
 &nbsp;  
 &nbsp;  
 &nbsp;  
