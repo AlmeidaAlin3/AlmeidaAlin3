@@ -4,7 +4,7 @@
 *I'm **Aline**, Control and Automation Engineer, Artificial Intelligence enthusiast, and lifelong learner.*  
 
 &nbsp;– &nbsp; 🌱 &nbsp;*I'm currently learning [Machine Learning](https://github.com/AlmeidaAlin3/MachineLearning/blob/master/README.md) and [Deep Learning](https://github.com/AlmeidaAlin3/DeepLearning/blob/master/README.md) from Stanford's Courses.*   
-&nbsp;– &nbsp; 👾 &nbsp;*I'm currently working on my project: **<D³> Deep Deception Detector**.*  
+&nbsp;– &nbsp; 👾 &nbsp;*I'm currently working on my [<D³> Deep Deception Detector](https://github.com/AlmeidaAlin3/D3_results) pŕoject.*  
 &nbsp;  
 &nbsp;  
 &nbsp;  
