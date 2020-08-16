@@ -6,8 +6,8 @@
 &nbsp;  
 
 &nbsp;– &nbsp; 🌱 &nbsp;*I'm currently learning Artificial Intelligence;*  
-&nbsp;– &nbsp; 👾 &nbsp;*My interests are with Computer vision, Reinforcement Learning, Natural Language Processing/Understanding etc.;  
-&nbsp;– &nbsp;  💬 &nbsp;*Ask me about anything, I am happy to help;*  
+&nbsp;– &nbsp; 👾 &nbsp;*My interests are with Deep Reinforcement Learning, Computer Vision, Natural Language Processing/Understanding etc.;  
+&nbsp;– &nbsp; 💬 &nbsp;*Ask me about anything, I am happy to help;*  
 &nbsp;– &nbsp; ✉️ &nbsp;Please email via aline.gabriel.almeida@gmail.com to reach me.*
 
 &nbsp; 
