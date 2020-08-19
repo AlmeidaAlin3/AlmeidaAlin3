@@ -16,9 +16,9 @@
 &nbsp;– &nbsp; 🌱 &nbsp;*I'm currently learning Deep Learning and Computer Vision;*  
 &nbsp;– &nbsp; 👾 &nbsp;*My interests are with AI, Deep Reinforcement Learning, Computer Vision, NLP, etc.;  
 &nbsp;– &nbsp; 💬 &nbsp;*Ask me about anything, I am happy to help;*  
-&nbsp;– &nbsp; ✉️ &nbsp;Please email via aline.gabriel.almeida@gmail.com to reach me.*
-&nbsp; 
-&nbsp; 
+&nbsp;– &nbsp; ✉️ &nbsp;Please email via aline.gabriel.almeida@gmail.com to reach me.*  
+&nbsp;  
+&nbsp;  
 ### **My stats:**  
 ![Aline's github stats](https://github-readme-stats.vercel.app/api?username=almeidaalin3&show_icons=true&hide_border=true)
 &nbsp;  
