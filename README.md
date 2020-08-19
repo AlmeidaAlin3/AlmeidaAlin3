@@ -1,7 +1,7 @@
 *Hi, there!* &nbsp;<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">   
 *I'm **Aline**, a Control and Automation Engineer and an Artificial Intelligence enthusiast from Brazil.*  
 &nbsp;  
-### **What I have done:**  
+### **What I've done:**  
 #### &nbsp;– &nbsp; [*Stanford's Machine Learning Course:*](https://github.com/AlmeidaAlin3/MachineLearning/blob/master/README.md)  
 &nbsp; &nbsp; &nbsp; *The Stanford's Machine Learning Course gave me a solid mathematical foundation for Machine Learning! [Here](https://github.com/AlmeidaAlin3/MachineLearning/blob/master/README.md)'s my problem set solutions for the course.* 
 &nbsp;  
