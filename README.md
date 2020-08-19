@@ -6,7 +6,7 @@
 &nbsp; &nbsp; &nbsp; *The Stanford's Machine Learning Course gave me a solid mathematical foundation for Machine Learning! [Here](https://github.com/AlmeidaAlin3/MachineLearning/blob/master/README.md)'s my problem set solutions for the course.* 
 &nbsp;  
 &nbsp;  
-#### &nbsp;– &nbsp; [*Kaggle Digit Recognizer:*](https://github.com/AlmeidaAlin3/KaggleCompetition_digitRecognizerMNIST/blob/master/digitRecognizer_MNIST/digitRecognizer_KerasCNN.ipynb)  
+#### &nbsp;– &nbsp; [*Kaggle's competition Digit Recognizer:*](https://github.com/AlmeidaAlin3/KaggleCompetition_digitRecognizerMNIST/blob/master/digitRecognizer_MNIST/digitRecognizer_KerasCNN.ipynb)  
 &nbsp; &nbsp; &nbsp; *I've done the kaggle's competition Digit Recognizer, [here](https://github.com/AlmeidaAlin3/KaggleCompetition_digitRecognizerMNIST/blob/master/digitRecognizer_MNIST/digitRecognizer_KerasCNN.ipynb)'s my code. I've got 99% accuracy using CNN* 
 <a href="https://raw.githubusercontent.com/AlmeidaAlin3/KaggleCompetition_digitRecognizerMNIST/master/digitRecognizer_MNIST/digits.png"><img src="https://raw.githubusercontent.com/AlmeidaAlin3/KaggleCompetition_digitRecognizerMNIST/master/digitRecognizer_MNIST/digits.png" title="MNIST" alt="MNIST" height="100"></a>
 
