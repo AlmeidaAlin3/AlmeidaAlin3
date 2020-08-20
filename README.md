@@ -9,6 +9,11 @@
 #### &nbsp;– &nbsp; [*Kaggle's Digit Recognizer competition:*](https://github.com/AlmeidaAlin3/KaggleCompetition_digitRecognizerMNIST/blob/master/digitRecognizer_MNIST/digitRecognizer_KerasCNN.ipynb)  
 &nbsp; &nbsp; &nbsp; *I've done the kaggle's competition Digit Recognizer, [here](https://github.com/AlmeidaAlin3/KaggleCompetition_digitRecognizerMNIST/blob/master/digitRecognizer_MNIST/digitRecognizer_KerasCNN.ipynb)'s my code. I've got 99% accuracy using CNN* 
 <a href="https://raw.githubusercontent.com/AlmeidaAlin3/KaggleCompetition_digitRecognizerMNIST/master/digitRecognizer_MNIST/digits.png"><img src="https://raw.githubusercontent.com/AlmeidaAlin3/KaggleCompetition_digitRecognizerMNIST/master/digitRecognizer_MNIST/digits.png" title="MNIST" alt="MNIST" height="100"></a>
+&nbsp;  
+&nbsp;  
+#### &nbsp;– &nbsp; [*my YOLO implementation:*](https://github.com/AlmeidaAlin3/my_YOLO)  
+&nbsp; &nbsp; &nbsp; *coming very soon!*
+
 
 &nbsp; 
 &nbsp; 
