@@ -2,21 +2,22 @@
 *I'm **Aline**, a Control and Automation Engineer and an Artificial Intelligence enthusiast from Brazil.*  
 &nbsp;  
 ### **What I've done:**  
+
+#### &nbsp;– &nbsp; [*my YOLO implementation:*](https://github.com/AlmeidaAlin3/my_YOLO)  
+&nbsp; &nbsp; &nbsp; *coming very soon!*  
+&nbsp; 
+&nbsp; 
+
 #### &nbsp;– &nbsp; [*Stanford's Machine Learning Course:*](https://github.com/AlmeidaAlin3/MachineLearning/blob/master/README.md)  
 &nbsp; &nbsp; &nbsp; *The Stanford's Machine Learning Course gave me a solid mathematical foundation for Machine Learning! [Here](https://github.com/AlmeidaAlin3/MachineLearning/blob/master/README.md)'s my problem set solutions for the course.* 
 &nbsp;  
 &nbsp;  
 #### &nbsp;– &nbsp; [*Kaggle's Digit Recognizer competition:*](https://github.com/AlmeidaAlin3/KaggleCompetition_digitRecognizerMNIST/blob/master/digitRecognizer_MNIST/digitRecognizer_KerasCNN.ipynb)  
 &nbsp; &nbsp; &nbsp; *I've done the kaggle's competition Digit Recognizer, [here](https://github.com/AlmeidaAlin3/KaggleCompetition_digitRecognizerMNIST/blob/master/digitRecognizer_MNIST/digitRecognizer_KerasCNN.ipynb)'s my code. I've got 99% accuracy using CNN* 
-<a href="https://raw.githubusercontent.com/AlmeidaAlin3/KaggleCompetition_digitRecognizerMNIST/master/digitRecognizer_MNIST/digits.png"><img src="https://raw.githubusercontent.com/AlmeidaAlin3/KaggleCompetition_digitRecognizerMNIST/master/digitRecognizer_MNIST/digits.png" title="MNIST" alt="MNIST" height="100"></a>
+<a href="https://raw.githubusercontent.com/AlmeidaAlin3/KaggleCompetition_digitRecognizerMNIST/master/digitRecognizer_MNIST/digits.png"><img src="https://raw.githubusercontent.com/AlmeidaAlin3/KaggleCompetition_digitRecognizerMNIST/master/digitRecognizer_MNIST/digits.png" title="MNIST" alt="MNIST" height="100"></a>  
+
 &nbsp;  
 &nbsp;  
-#### &nbsp;– &nbsp; [*my YOLO implementation:*](https://github.com/AlmeidaAlin3/my_YOLO)  
-&nbsp; &nbsp; &nbsp; *coming very soon!*
-
-
-&nbsp; 
-&nbsp; 
 ### **Personal interests:**  
 &nbsp;– &nbsp; 🌱 &nbsp;*I'm currently learning Deep Learning and Computer Vision;*  
 &nbsp;– &nbsp; 👾 &nbsp;*My interests are with AI, Deep Reinforcement Learning, Computer Vision, NLP, etc.;  
