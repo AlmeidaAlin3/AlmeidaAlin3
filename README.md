@@ -3,8 +3,11 @@
 &nbsp;  
 ### **What I've done:**  
 
-#### &nbsp;– &nbsp; [*my YOLO implementation:*](https://github.com/AlmeidaAlin3/my_YOLO)  
-&nbsp; &nbsp; &nbsp; *coming very soon!*  
+#### &nbsp;– &nbsp; [*my YOLO v4 implementation:*](https://github.com/AlmeidaAlin3/my_YOLO)  
+<a href="https://github.com/AlmeidaAlin3/my_YOLO/blob/master/img/Aline.png"><img src="https://github.com/AlmeidaAlin3/my_YOLO/blob/master/img/Aline.png" title="Aline YOLO" alt="Aline YOLO" height="400"></a>  
+
+
+
 &nbsp; 
 &nbsp; 
 
