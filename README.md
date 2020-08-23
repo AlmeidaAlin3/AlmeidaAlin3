@@ -1,7 +1,7 @@
 ### *Hi, there!* &nbsp;<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">   
 *I'm **Aline**, a Control and Automation Engineer and an Artificial Intelligence enthusiast from Brazil.*  
 &nbsp;  
-### **What I've done:** 
+### *What I've done:* 
 ### &nbsp;– &nbsp; [*Trying YOLO v4:*](https://github.com/AlmeidaAlin3/my_YOLO/blob/master/myYOLOv4.ipynb)
 &nbsp; &nbsp; &nbsp; *I've tried YOLO v4, the state of the art real-time object detection system and [here](https://github.com/AlmeidaAlin3/my_YOLO/blob/master/myYOLOv4.ipynb)'s my code.*  
 <a href="https://github.com/AlmeidaAlin3/my_YOLO/blob/master/img/Aline.png"><img src="https://github.com/AlmeidaAlin3/my_YOLO/blob/master/img/Aline.png" title="Aline YOLO" alt="Aline YOLO" height="350"></a>  
@@ -20,14 +20,14 @@
 &nbsp;  
 &nbsp;  
 
-### **Personal interests:**  
+### *Personal interests:*  
 &nbsp;– &nbsp; 🌱 &nbsp;*I'm currently learning Deep Learning and Computer Vision;*  
 &nbsp;– &nbsp; 👾 &nbsp;*My interests are with AI, Deep Reinforcement Learning, Computer Vision, NLP, etc.;  
 &nbsp;– &nbsp; 💬 &nbsp;*Ask me about anything, I am happy to help;*  
 &nbsp;– &nbsp; ✉️ &nbsp;Please email via aline.gabriel.almeida@gmail.com to reach me.*  
 &nbsp;  
 &nbsp;  
-### **My stats:**  
+### *My stats:*  
 ![Aline's github stats](https://github-readme-stats.vercel.app/api?username=almeidaalin3&show_icons=true&hide_border=true)
 &nbsp;  
 <!--
