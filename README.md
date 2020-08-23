@@ -3,7 +3,9 @@
 &nbsp;  
 ### **What I've done:**  
 
-### &nbsp;– &nbsp; [*Trying YOLO v4:*](https://github.com/AlmeidaAlin3/my_YOLO)  
+### &nbsp;– &nbsp; [*Trying YOLO v4:*](https://github.com/AlmeidaAlin3/my_YOLO/blob/master/myYOLOv4.ipynb)  
+&nbsp; &nbsp; &nbsp; *I tried YOLO v4, the state of the art real-time object detection system. [Here](https://github.com/AlmeidaAlin3/my_YOLO/blob/master/myYOLOv4.ipynb)'s my code.*  
+
 <a href="https://github.com/AlmeidaAlin3/my_YOLO/blob/master/img/Aline.png"><img src="https://github.com/AlmeidaAlin3/my_YOLO/blob/master/img/Aline.png" title="Aline YOLO" alt="Aline YOLO" height="400"></a>  
 
 &nbsp; 
