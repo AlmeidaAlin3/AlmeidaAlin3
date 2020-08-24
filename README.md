@@ -14,7 +14,7 @@
 &nbsp;  
 &nbsp;  
 
-### &nbsp;– &nbsp; [*DeepLearning.ai Deep Learning Course:*](https://github.com/AlmeidaAlin3/DeepLearning/blob/master/README.md)
+### &nbsp;– &nbsp; [*DeepLearning.ai's Deep Learning Course:*](https://github.com/AlmeidaAlin3/DeepLearning/blob/master/README.md)
 &nbsp; &nbsp; &nbsp; &nbsp; *The DeepLearning.ai's Deep Learning Course gave me a great introduction for Deep Learning! [Here](https://github.com/AlmeidaAlin3/DeepLearning/blob/master/README.md)'s my problem set solutions for the course.*  
 &nbsp; &nbsp; &nbsp; <a href="https://raw.githubusercontent.com/AlmeidaAlin3/DeepLearning/master/C1M3/classif.png"><img src="https://raw.githubusercontent.com/AlmeidaAlin3/DeepLearning/master/C1M3/classif.png" title="Classification" alt="Classification" height="100"></a> 
 &nbsp;  
