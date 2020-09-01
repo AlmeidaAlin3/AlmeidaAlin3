@@ -3,8 +3,8 @@
 &nbsp;  
 
 ### *What I'm doing:* 
-### &nbsp;– &nbsp; 🌷 [*Stanford's Convolutional Neural Networks for Visual Recognition Course:*](https://github.com/AlmeidaAlin3/CNN_Visual_Recognition/edit/master/README.md)
-&nbsp; &nbsp; &nbsp; &nbsp; *A deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification.*  
+### &nbsp;– &nbsp; 🌷 *Convolutional Neural Networks for Visual Recognition ans Deep Reinforcement Learning Courses:*
+&nbsp; &nbsp; &nbsp; &nbsp; *A deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification +  deep reinforcement learning core challenges and approaches, including generalization and exploration.*  
 
 &nbsp;  
 ### *What I've done:* 
