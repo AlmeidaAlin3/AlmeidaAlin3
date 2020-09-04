@@ -8,6 +8,12 @@
 
 &nbsp;  
 ### *What I've done:* 
+### &nbsp;– &nbsp; 🌺 *Trying Deceptron2:*
+&nbsp; &nbsp; &nbsp; &nbsp; *I've tried Deceptron2, the state of the art real-time object segmentation system*  
+&nbsp; &nbsp; &nbsp; <a href="https://github.com/AlmeidaAlin3/AlmeidaAlin3.github.io/blob/master/images/my_deceptron2.gif"><img src="https://github.com/AlmeidaAlin3/AlmeidaAlin3.github.io/blob/master/images/my_deceptron2.gif" title="Aline YOLO" alt="Aline YOLO" height="120"></a>  
+&nbsp; 
+&nbsp; 
+
 ### &nbsp;– &nbsp; 🌺 [*Trying YOLO v4:*](https://github.com/AlmeidaAlin3/my_YOLO/blob/master/myYOLOv4.ipynb)
 &nbsp; &nbsp; &nbsp; &nbsp; *I've tried YOLO v4, the state of the art real-time object detection system, and [here](https://github.com/AlmeidaAlin3/my_YOLO/blob/master/myYOLOv4.ipynb)'s my code.*  
 &nbsp; &nbsp; &nbsp; <a href="https://github.com/AlmeidaAlin3/my_YOLO/blob/master/img/myYolo.png"><img src="https://github.com/AlmeidaAlin3/my_YOLO/blob/master/img/myYolo.png" title="Aline YOLO" alt="Aline YOLO" height="150"></a>  
