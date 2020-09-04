@@ -33,7 +33,7 @@
 &nbsp;  
 
 ### *Personal interests:*  
-&nbsp;– &nbsp; 🌱 &nbsp;*I'm currently learning Deep Learning and Computer Vision;*  
+&nbsp;– &nbsp; 🌱 &nbsp;*I'm currently learning Deep Learning and Deep Reinforcement Learning;*  
 &nbsp;– &nbsp; 👾 &nbsp;*My interests are with AI, Deep Reinforcement Learning, Computer Vision, NLP, etc.;  
 &nbsp;– &nbsp; 💬 &nbsp;*Ask me about anything, I am happy to help;*  
 &nbsp;– &nbsp; ✉️ &nbsp;Please email via aline.gabriel.almeida@gmail.com to reach me.*  
