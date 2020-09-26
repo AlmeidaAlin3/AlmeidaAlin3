@@ -10,16 +10,12 @@
 • ***What I've done:***
 &nbsp;  
 &nbsp; &nbsp; ∙ &nbsp; [***Stanford's Machine Learning Course:***](https://github.com/AlmeidaAlin3/MachineLearning/blob/master/README.md) *The Stanford's Machine Learning Course gave me a super solid mathematical foundation for Machine Learning! [Here](https://github.com/AlmeidaAlin3/MachineLearning/blob/master/README.md)'s my problem set solutions for the course.*  
-&nbsp;  
 
 <!--
 • ***My stats:***  
 ![Aline's github stats](https://github-readme-stats.vercel.app/api?username=almeidaalin3&show_icons=true&hide_border=true)
 &nbsp;  
 -->
-
 <!--
  <img align="right" alt="" src=""/> 
 -->
-
-
