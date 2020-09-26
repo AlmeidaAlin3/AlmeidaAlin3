@@ -5,13 +5,11 @@
 &nbsp; &nbsp; ∙ &nbsp; &nbsp; 👾 &nbsp;*My interests are with AI, Deep Reinforcement Learning, Computer Vision, NLP, etc.;  
 &nbsp; &nbsp; ∙ &nbsp; &nbsp; 💬 &nbsp;*Ask me about anything, I am happy to help;*  
 &nbsp; &nbsp; ∙ &nbsp; &nbsp; ✉️ &nbsp;Please email via aline.gabriel.almeida@gmail.com to reach me.*    
-&nbsp;  
-&nbsp;  
+&nbsp;
 
 • ***What I've done:***  
 &nbsp;  
-&nbsp; &nbsp; ∙ &nbsp; ***Trying Deceptron2:***  
-&nbsp; &nbsp; &nbsp; &nbsp; *I've tried Deceptron2, the state of the art real-time object segmentation system*  
+&nbsp; &nbsp; ∙ &nbsp; ***Trying Deceptron2:*** *I've tried Deceptron2, the state of the art real-time object segmentation system*  
 &nbsp; &nbsp; &nbsp; <a href="https://github.com/AlmeidaAlin3/AlmeidaAlin3.github.io/blob/master/images/my_deceptron2.gif"><img src="https://github.com/AlmeidaAlin3/AlmeidaAlin3.github.io/blob/master/images/my_deceptron2.gif" title="Aline YOLO" alt="Aline YOLO" height="120"></a>  
 &nbsp; 
 &nbsp; 
