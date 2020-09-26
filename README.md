@@ -8,6 +8,7 @@
 &nbsp;
 
 • ***What I've done:***  
+&nbsp;  
 &nbsp; &nbsp; ∙ &nbsp; [***Stanford's Machine Learning Course:***](https://github.com/AlmeidaAlin3/MachineLearning/blob/master/README.md) *The Stanford's Machine Learning Course gave me a solid mathematical foundation for Machine Learning! [Here](https://github.com/AlmeidaAlin3/MachineLearning/blob/master/README.md)'s my problem set solutions for the course.*  
 &nbsp;  
 &nbsp;  
