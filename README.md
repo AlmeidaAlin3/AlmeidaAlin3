@@ -1,6 +1,6 @@
 ## *Hi, there! I'm Aline* &nbsp;<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">    
 &nbsp;   
-• *My personal interests:*  
+• **My personal interests:**  
 &nbsp; &nbsp; ∙ &nbsp; 🌱 &nbsp;*I'm currently learning Deep Learning and Deep Reinforcement Learning;*  
 &nbsp; &nbsp; ∙ &nbsp; &nbsp; 👾 &nbsp;*My interests are with AI, Deep Reinforcement Learning, Computer Vision, NLP, etc.;  
 &nbsp; &nbsp; ∙ &nbsp; &nbsp; 💬 &nbsp;*Ask me about anything, I am happy to help;*  
@@ -8,8 +8,8 @@
 &nbsp;  
 &nbsp;  
 
-### • ***What I've done:***  
-&nbsp;***∙ Trying Deceptron2:***  
+• ***What I've done:***  
+&nbsp; &nbsp; ∙ &nbsp; ***Trying Deceptron2:***  
 &nbsp; &nbsp; &nbsp; &nbsp; *I've tried Deceptron2, the state of the art real-time object segmentation system*  
 &nbsp; &nbsp; &nbsp; <a href="https://github.com/AlmeidaAlin3/AlmeidaAlin3.github.io/blob/master/images/my_deceptron2.gif"><img src="https://github.com/AlmeidaAlin3/AlmeidaAlin3.github.io/blob/master/images/my_deceptron2.gif" title="Aline YOLO" alt="Aline YOLO" height="120"></a>  
 &nbsp; 
