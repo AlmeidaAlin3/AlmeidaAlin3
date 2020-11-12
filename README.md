@@ -8,7 +8,6 @@
 &nbsp;
 
 • ***What I've done:***
-
 &nbsp;  
 &nbsp; &nbsp; ∙ &nbsp; [***AI-Synthesized_Voices_Clusterization:***](https://github.com/AlmeidaAlin3/AI-Synthesized_Voices_Clusterization) A project that proposes the use of bispectral analysis and statistical tools to create features capable to show the differences between human and DeepFake voices.  
 
