@@ -9,7 +9,7 @@
 
 • ***What I've done:***
   
-&nbsp; &nbsp; ∙ &nbsp; [***AI-Synthesized_Voices_Clusterization:***](https://github.com/AlmeidaAlin3/AI-Synthesized_Voices_Clusterization) A project that proposes the use of bispectral analysis and statistical tools to create features capable to show the differences between human and DeepFake voices.  
+&nbsp; &nbsp; ∙ &nbsp; [***AI-Synthesized_Voices_Clusterization:***](https://github.com/AlmeidaAlin3/AI-Synthesized_Voices_Clusterization) *A project that proposes the use of bispectral analysis and statistical tools to create features capable to show the differences between human and DeepFake voices.*  
 
 &nbsp; &nbsp; ∙ &nbsp; [***Stanford's Machine Learning Course:***](https://github.com/AlmeidaAlin3/MachineLearning/blob/master/README.md) *The Stanford's Machine Learning Course gave me a super solid mathematical foundation for Machine Learning! [Here](https://github.com/AlmeidaAlin3/MachineLearning/blob/master/README.md)'s my problem set solutions for the course.*  
 
