@@ -1,10 +1,11 @@
 ## *Hi, there! I'm Aline* &nbsp;<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">    
 &nbsp;   
 • **My personal interests:**  
-&nbsp; &nbsp; ∙ &nbsp; 🌱 &nbsp;*I'm currently learning Deep Learning and Deep Reinforcement Learning;*  
-&nbsp; &nbsp; ∙ &nbsp; 👾 &nbsp;*My interests are with AI, Deep Reinforcement Learning, Deep Learning, Computer Vision, etc.;  
+&nbsp; &nbsp; ∙ &nbsp; 🌱 &nbsp;*I'm currently learning GANs and Deep Reinforcement Learning;*  
+&nbsp; &nbsp; ∙ &nbsp; 📽️ &nbsp;*Visit my [youtube channel](https://www.youtube.com/channel/UCSe5r5jc5cEywlVuRVOvd9Q) (amazing videos are coming soon!* 🥰 *).*   
+&nbsp; &nbsp; ∙ &nbsp; 👾 &nbsp;*My interests are with AI, Deep Reinforcement Learning, Deep Learning, Computer Vision, etc.;*  
 &nbsp; &nbsp; ∙ &nbsp; 💬 &nbsp;*Ask me about anything, I am happy to help;*  
-&nbsp; &nbsp; ∙ &nbsp; ✉️ &nbsp;Please email via aline.gabriel.almeida@gmail.com to reach me.*    
+&nbsp; &nbsp; ∙ &nbsp; ✉️ &nbsp;*Please email via aline.gabriel.almeida@gmail.com to reach me.*    
 &nbsp;
 
 • ***What I've done:***
