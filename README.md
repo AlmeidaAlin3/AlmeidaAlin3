@@ -2,8 +2,7 @@
 &nbsp;   
 • **My personal interests:**  
 &nbsp; &nbsp; ∙ &nbsp; 🌱 &nbsp;*I'm currently learning GANs and Deep Reinforcement Learning;*  
-&nbsp; &nbsp; ∙ &nbsp; 📽️ &nbsp;*Visit my [youtube channel](https://www.youtube.com/channel/UCSe5r5jc5cEywlVuRVOvd9Q) (amazing videos are coming soon!* 🥰 *).*   
-&nbsp; &nbsp; ∙ &nbsp; 👾 &nbsp;*My interests are with AI, Deep Reinforcement Learning, Deep Learning, Computer Vision, etc.;*  
+&nbsp; &nbsp; ∙ &nbsp; 👾 &nbsp;*Visit my [youtube channel](https://www.youtube.com/channel/UCSe5r5jc5cEywlVuRVOvd9Q) (amazing videos are coming soon!* 🥰 *).*   
 &nbsp; &nbsp; ∙ &nbsp; 💬 &nbsp;*Ask me about anything, I am happy to help;*  
 &nbsp; &nbsp; ∙ &nbsp; ✉️ &nbsp;*Please email via aline.gabriel.almeida@gmail.com to reach me.*    
 &nbsp;
