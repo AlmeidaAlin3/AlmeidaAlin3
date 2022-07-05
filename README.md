@@ -2,8 +2,8 @@
 &nbsp;   
 • **My personal interests:**  
 &nbsp; &nbsp; ∙ &nbsp; 👾 &nbsp;*I'm currently learning Reinforcement Learning;*  
-&nbsp; &nbsp; ∙ &nbsp; ❤️ &nbsp;*Ask me about anything, I am happy to help;*  
-&nbsp; &nbsp; ∙ &nbsp; ❤️ &nbsp;*Please email via aline.gabriel.almeida@gmail.com to reach me.*    
+&nbsp; &nbsp; ∙ &nbsp; 💜 &nbsp;*Ask me about anything, I am happy to help;*  
+&nbsp; &nbsp; ∙ &nbsp; 💜 &nbsp;*Please email via aline.gabriel.almeida@gmail.com to reach me.*    
 &nbsp;
 
 <!--
