@@ -7,7 +7,7 @@
 &nbsp;  
 
 
-• ***In my spare time I love to solve [Hacker Rank](https://www.hackerrank.com/domains/ai)'s AI challenges:***  
+• ***In my spare time I love to solve HackerRank's AI challenges:***  
 &nbsp; &nbsp; &nbsp; &nbsp; ∙ &nbsp; 🤖 [*Bot Building*](https://github.com/AlmeidaAlin3/HackerRank_AI_Challenges):  
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/AlmeidaAlin3/HackerRank_Challenges_Artificial_Intelligence/blob/main/2_BotSavesPrincess2/BotSavesPrincess2.gif?raw=true" title="BotSavesPrincess2" alt="BotSavesPrincess2" height="150">   <img src="https://github.com/AlmeidaAlin3/HackerRank_Challenges_Artificial_Intelligence/blob/main/5_BotCleanPartiallyObservable/BotCleanPartiallyObservable.gif?raw=true" title="BotCleanPartiallyObservable" alt="BotCleanPartiallyObservable" height="150">    <img src="https://github.com/AlmeidaAlin3/HackerRank_Challenges_Artificial_Intelligence/blob/main/6_MazeEscape/MazeEscape.gif?raw=true" title="BotCleanPartiallyObservable" alt="MazeEscape" height="150">
  
