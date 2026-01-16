@@ -1,5 +1,22 @@
-*Hi, there! I'm Aline* &nbsp;<!--<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">-->
+<div class="home-vertical-left">
+
+### *Hello World, I’m Aline!*
+
+<div class="home-text-left">
  
+ As an engineer who grew up taking toys apart just to see how they worked, who has spent **4+ years in industry** building applied AI systems, and who holds a **Master’s in Deep Reinforcement Learning**, it’s genuinely uncomfortable *(and honestly a little embarrassing)* that I still can’t clearly say how AI systems *actually work* or claim that I truly understand what’s going on inside them.
+
+When family and friends ask, *“Oh, you work with AI! Tell me how it works”*, it always hits me hard. They look at me expecting the gears to fall neatly into place. Instead, While answering I catch myself wondering whether the matrix multiplication thing has even fully convinced *myself*.
+
+Over time, I realized this isn’t just a personal frustration. It’s something the field itself is starting to confront more openly, now framed as questions of **AI safety** and **AI misalignment**. I suspect the gap between performance and understanding is one of the risks we’re still underestimating.
+
+I’m worried about what this gap could mean at a global scale with **potentially catastrophic implications**, but I’m also genuinely excited to take part in working toward better answers.
+
+This [site](https://almeidaalin3.github.io/) is my attempt to gather my ideas, learnings, and experiments as I explore these questions. You can access and navigate it and, if you’d like, join me along the way.
+
+</div>
+
+</div>
 
 <!--
 &nbsp;  
