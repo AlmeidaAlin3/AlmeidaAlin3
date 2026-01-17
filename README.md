@@ -4,9 +4,9 @@
 
 <div class="home-text-left">
  
-This is my output from a noisy input.  
+This is my output from a noisy input.
 
-As an engineer who grew up taking toys apart just to see how they worked, who has spent **4+ years in industry** building applied AI systems, and who holds a **Master’s in Deep Reinforcement Learning**, it’s genuinely uncomfortable *(and honestly a little embarrassing)* that I still can’t clearly say how AI systems *actually work* or claim that I truly understand what’s going on inside them.
+As an engineer who grew up taking toys’ gears apart just to see how they worked, who has spent **4+ years in industry** building applied AI systems, and who holds a **Master’s in Deep Reinforcement Learning**, it’s genuinely uncomfortable *(and honestly a little embarrassing)* that I still can’t clearly say how AI systems *actually work* or claim that I truly understand what’s going on inside them.
 
 When family and friends ask, *“Oh, you work with AI! Tell me how it works”*, it always hits me hard. They look at me expecting the gears to fall neatly into place. Instead, while answering I catch myself wondering whether the matrix multiplication thing has even fully convinced *myself*.
 
