@@ -10,7 +10,7 @@ Over the past few years, I’ve worked on applied AI systems in industry and com
 
 I started out amazed by how quickly these models were improving, but over time that feeling shifted into something else. The more I worked with them, the more I realized how little we truly understand and control these systems.
 
-#That realization is what brought me here.
+<!--That realization is what brought me here.-->
 
 
 I find myself drawn to questions around safety, alignment, governance, and also the risks that extend beyond AI itself, like biosecurity and other dual-use concerns. At the same time, I care a lot about how these ideas are communicated, because I don’t think technical understanding alone is enough if it doesn’t reach people.
