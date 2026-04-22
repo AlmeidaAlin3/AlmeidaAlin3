@@ -8,7 +8,7 @@ I work across **AI safety, interpretability, and governance.**
 
 Over the past few years, I’ve worked on applied AI systems in industry and completed my Master’s in Deep Reinforcement Learning.  
 
-I started out genuinely amazed by how quickly these models were improving, but over time that feeling shifted into something else. The more I worked with them, the more I realized how little we truly understand and control these systems.
+I started out amazed by how quickly these models were improving, but over time that feeling shifted into something else. The more I worked with them, the more I realized how little we truly understand and control these systems.
 
 That realization is what brought me here.
 
